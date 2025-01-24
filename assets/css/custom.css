@@ -1,11 +1,21 @@
-/* Application du style global */
+/* Style global de la page */
 body {
     background-color: black; /* Fond noir */
     color: white; /* Texte en blanc */
     font-family: Georgia, serif; /* Police Georgia */
     margin: 0;
     padding: 0;
-    line-height: 1.6; /* Espacement entre les lignes pour améliorer la lisibilité */
+    line-height: 1.6; /* Espacement entre les lignes */
+}
+
+/* Bannière en haut de la page */
+.header {
+    background-color: #b86ad2; /* Fond violet */
+    color: white; /* Texte en blanc */
+    padding: 20px;
+    text-align: center;
+    font-size: 24px; /* Taille de police pour la bannière */
+    font-weight: bold;
 }
 
 /* Style des titres */
