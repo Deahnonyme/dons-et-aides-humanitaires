@@ -1,5 +1,5 @@
 ---
-title: "Liens pour le Soudan"
+title: "Soudan"
 order: 1
 in_menu: true
 ---
