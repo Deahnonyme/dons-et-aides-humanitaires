@@ -5,15 +5,18 @@ in_menu: true
 ---
 ## Liens des cagnottes, comptes infos et linktree pour soutenir les causes humanitaires
 
-<div style="display: flex; flex-direction: column; align-items: center; margin-top: 20px;">
-  <a href="https://lien1.com" target="_blank" style="text-decoration: none; background-color: #b86ad2; color: white; padding: 20px 60px; margin: 15px 0; border-radius: 5px; width: 250px; text-align: center; font-size: 18px; font-family: Georgia, serif; font-weight: bold; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+<a href="https://votre-lien.com" target="_blank" style="text-decoration: none; background-color: #b86ad2; color: white; padding: 20px 50px; margin: 20px 0; border-radius: 10px; width: auto; text-align: center; font-size: 18px; font-family: Georgia, serif; font-weight: bold; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); display: inline-block;">
 Lodo Niri - créateur de contenus politiques + cagnottes diverses (Mayotte, Gaza, Queer)
+</a>
 
-  </a>
-  <a href="https://lien2.com" target="_blank" style="text-decoration: none; background-color: #b86ad2; color: white; padding: 20px 60px; margin: 15px 0; border-radius: 5px; width: 250px; text-align: center; font-size: 18px; font-family: Georgia, serif; font-weight: bold; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+<a href="https://cnt-ait.info/2024/04/20/appel-soudan/" target="_blank" style="text-decoration: none; background-color: #b86ad2; color: white; padding: 20px 50px; margin: 20px 0; border-radius: 10px; width: auto; text-align: center; font-size: 18px; font-family: Georgia, serif; font-weight: bold; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); display: inline-block;">
 🇸🇩  SOUDAN - Actualité de l'Anarchosyndicalisme
-  </a>
-  <a href="https://lien3.com" target="_blank" style="text-decoration: none; background-color: #b86ad2; color: white; padding: 20px 40px; margin: 15px 0; border-radius: 5px; width: 250px; text-align: center; font-size: 18px; font-family: Georgia, serif; font-weight: bold; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
-    Lien 3
-  </a>
-</div> 
+</a>
+
+<a href="https://www.gofundme.com/f/fight-hunger-in-sudan-the-khartoum-kitchen-appeal" target="_blank" style="text-decoration: none; background-color: #b86ad2; color: white; padding: 20px 50px; margin: 20px 0; border-radius: 10px; width: auto; text-align: center; font-size: 18px; font-family: Georgia, serif; font-weight: bold; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); display: inline-block;">
+🇸🇩  SOUDAN - Donate to Fight Hunger in Sudan
+</a>
+
+<a href="https://sdu.org.uk/" target="_blank" style="text-decoration: none; background-color: #b86ad2; color: white; padding: 20px 50px; margin: 20px 0; border-radius: 10px; width: auto; text-align: center; font-size: 18px; font-family: Georgia, serif; font-weight: bold; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); display: inline-block;">
+🇸🇩  SOUDAN - Syndicat de docteur.e.s du Soudan
+</a> 
