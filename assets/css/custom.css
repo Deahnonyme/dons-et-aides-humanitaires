@@ -14,7 +14,7 @@ body {
     color: white; /* Texte en blanc */
     padding: 20px;
     text-align: center;
-    font-size: 24px; /* Taille de police pour la bannière */
+    font-size: 24px; /* Taille de la police pour la bannière */
     font-weight: bold;
 }
 
@@ -44,4 +44,18 @@ p {
 /* Ajout de padding à la page */
 .container {
     padding: 20px;
+}
+
+/* Style pour les boutons, si tu en as */
+button {
+    background-color: #b86ad2; /* Fond violet pour les boutons */
+    color: white; /* Texte des boutons en blanc */
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #9c4ca5; /* Effet de survol sur les boutons */
 }
