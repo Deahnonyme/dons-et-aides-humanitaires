@@ -1,3 +1,37 @@
-:root {
-    --couleur-primaire : #753785;
+/* Application du style global */
+body {
+    background-color: black; /* Fond noir */
+    color: white; /* Texte en blanc */
+    font-family: Georgia, serif; /* Police Georgia */
+    margin: 0;
+    padding: 0;
+    line-height: 1.6; /* Espacement entre les lignes pour améliorer la lisibilité */
+}
+
+/* Style des titres */
+h1, h2, h3, h4, h5, h6 {
+    font-family: Georgia, serif; /* Police Georgia pour les titres */
+    color: white; /* Titres en blanc */
+    margin-bottom: 20px; /* Espacement sous les titres */
+}
+
+/* Style des liens */
+a {
+    color: #b86ad2; /* Couleur des liens violet */
+    text-decoration: none; /* Enlever le soulignement */
+}
+
+a:hover {
+    text-decoration: underline; /* Souslignement au survol */
+}
+
+/* Style des paragraphes */
+p {
+    font-size: 18px; /* Taille de police des paragraphes */
+    margin-bottom: 20px; /* Espacement entre les paragraphes */
+}
+
+/* Ajout de padding à la page */
+.container {
+    padding: 20px;
 }
