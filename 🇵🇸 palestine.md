@@ -7,6 +7,10 @@ in_menu: true
 🇵🇸 letstalkpalestine.fr (infos, liens et cagnottes)
 </a>
 
+<a href="https://docs.google.com/spreadsheets/u/0/d/1-DDMFyn-ttboPXrz1bB3MFk7BlzCwfugh4259Wh7U1s/htmlview?pli=1" target="_blank" style="text-decoration: none; background-color: #b86ad2; color: white; padding: 20px 50px; margin: 20px 0; border-radius: 10px; width: auto; text-align: center; font-size: 18px; font-family: Georgia, serif; font-weight: bold; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); display: inline-block;">
+🇵🇸 Gaza Family Funds Directory
+</a>
+
 <a href="https://www.gofundme.com/f/help-weal-alnamla-to-get-treatment-and-leave-gaz" target="_blank" style="text-decoration: none; background-color: #b86ad2; color: white; padding: 20px 50px; margin: 20px 0; border-radius: 10px; width: auto; text-align: center; font-size: 18px; font-family: Georgia, serif; font-weight: bold; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); display: inline-block;">
 🇵🇸 Donate to Prosthetics needed in Gaza for family who lost home
 </a>
@@ -29,10 +33,6 @@ in_menu: true
 
 <a href="https://www.gofundme.com/f/dalia-and-her-family" target="_blank" style="text-decoration: none; background-color: #b86ad2; color: white; padding: 20px 50px; margin: 20px 0; border-radius: 10px; width: auto; text-align: center; font-size: 18px; font-family: Georgia, serif; font-weight: bold; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); display: inline-block;">
 🇵🇸 Help Dalia and her family survive and reach safety
-</a>
-
-<a href="https://docs.google.com/spreadsheets/u/0/d/1-DDMFyn-ttboPXrz1bB3MFk7BlzCwfugh4259Wh7U1s/htmlview?pli=1" target="_blank" style="text-decoration: none; background-color: #b86ad2; color: white; padding: 20px 50px; margin: 20px 0; border-radius: 10px; width: auto; text-align: center; font-size: 18px; font-family: Georgia, serif; font-weight: bold; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); display: inline-block;">
-🇵🇸 Gaza Family Funds Directory
 </a>
 
 <a href="https://www.gofundme.com/f/helping-aseel-her-family-to-escape-war-in-gaza" target="_blank" style="text-decoration: none; background-color: #b86ad2; color: white; padding: 20px 50px; margin: 20px 0; border-radius: 10px; width: auto; text-align: center; font-size: 18px; font-family: Georgia, serif; font-weight: bold; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); display: inline-block;">
