@@ -1,5 +1,5 @@
 ---
 title: "Palestine"
-order: 4
+order: 1
 in_menu: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Soudan"
-order: 1
+order: 2
 in_menu: true
 ---
 ## Liens des cagnottes, comptes infos et linktree pour soutenir les causes humanitaires
