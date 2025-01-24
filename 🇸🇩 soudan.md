@@ -1,6 +1,6 @@
 ---
 title: "🇸🇩 Soudan"
-order: 2
+order: 4
 in_menu: true
 ---
 ## Liens pour soutenir le Soudan
