@@ -1,9 +1,3 @@
-::root {
+:root {
   --couleur-primaire: #0E6270;
-  --underline-max-width: 100%;
-  --underline-hover-width: 0;
-  --underline-idle-width: var(--underline-max-width);
-  --underline-x: calc(var(--underline-max-width) * 0);
-  --underline-img: linear-gradient(0deg, currentColor, currentColor);
-  --external-link-content: "";
 }
