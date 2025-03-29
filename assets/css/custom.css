@@ -1,8 +1,8 @@
 :root {
-    --primary-color: #48d1cc; /* Bleu lagon */
+    --primary-color: #248f8b /* Bleu lagon */
     --secondary-color: #248f8b; /* Bleu lagon foncé */
     --background-color: #ffffff; /* Blanc */
-    --text-color: #023e8a; /* Bleu foncé */
+    --text-color: #248f8b; /* Bleu foncé */
 }
 
 /* Appliquer les variables de couleur */
