@@ -1,0 +1,33 @@
+:root {
+    --primary-color: #48d1cc; /* Bleu lagon */
+    --secondary-color: #248f8b; /* Bleu lagon foncé */
+    --background-color: #ffffff; /* Blanc */
+    --text-color: #023e8a; /* Bleu foncé */
+}
+
+/* Appliquer les variables de couleur */
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
+
+header {
+    background-color: var(--primary-color);
+}
+
+footer {
+    background-color: var(--secondary-color);
+}
+
+/* Exemple de bouton */
+.button {
+    background-color: var(--primary-color);
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: var(--secondary-color);
+}
