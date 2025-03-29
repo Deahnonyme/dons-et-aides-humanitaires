@@ -1,5 +1,5 @@
 ::root {
-  --couleur-primaire: #258589;
+  --couleur-primaire: #0E6270;
   --underline-max-width: 100%;
   --underline-hover-width: 0;
   --underline-idle-width: var(--underline-max-width);
