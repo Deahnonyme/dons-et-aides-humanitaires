@@ -1,3 +1,21 @@
-:root {
-    --couleur-primaire : #0E6270;
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page avec Volet Latéral</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="sidebar">
+        <a href="index.html" class="active">Accueil</a>
+        <a href="about.html">À Propos</a>
+        <a href="services.html">Services</a>
+        <a href="contact.html">Contact</a>
+    </div>
+    <div class="content">
+        <h1>Bienvenue sur notre site</h1>
+        <p>Ceci est la page d'accueil. Utilisez le volet latéral pour naviguer vers d'autres pages.</p>
+    </div>
+</body>
+</html>
