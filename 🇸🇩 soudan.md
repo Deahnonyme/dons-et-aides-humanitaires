@@ -3,7 +3,7 @@ title: "🇸🇩 Soudan"
 order: 4
 in_menu: true
 ---
-## Liens pour soutenir le Soudan
+## Liens pour soutenir et vous informer sur le Soudan
 
 <a href="https://linktr.ee/londonforsudan" target="_blank" style="text-decoration: none; background-color: #4bbab1; color: white; padding: 20px 50px; margin: 20px 0; border-radius: 10px; width: auto; text-align: center; font-size: 18px; font-family: Georgia, serif; font-weight: bold; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); display: inline-block;">
 🇸🇩 Londonforsudan : Linktree (cagnottes, infos et contenus anglophones)
