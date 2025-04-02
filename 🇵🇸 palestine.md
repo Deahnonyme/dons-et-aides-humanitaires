@@ -5,6 +5,11 @@ in_menu: true
 ---
 ## Liens pour soutenir et vous informer sur la Palestine
 
+
+<a href="https://arab.org/fr/click-to-help/palestine/" target="_blank" style="text-decoration: none; background-color: #2a8899; color: white; padding: 20px 50px; margin: 20px 0; border-radius: 10px; width: auto; text-align: center; font-size: 18px; font-family: , serif; font-weight: bold; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); display: inline-block;">
+🇵🇸 Vérifier Votre clic aide le sort des réfugiés palestiniens
+
+
 <a href="https://www.instagram.com/letstalkpalestine.fr/" target="_blank" style="text-decoration: none; background-color: #2a8899; color: white; padding: 20px 50px; margin: 20px 0; border-radius: 10px; width: auto; text-align: center; font-size: 18px; font-family: , serif; font-weight: bold; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); display: inline-block;">
 🇵🇸 letstalkpalestine.fr (infos, liens et cagnottes)
 </a>
