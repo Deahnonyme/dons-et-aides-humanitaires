@@ -1,5 +1,5 @@
 ---
-title: "🏳️‍⚧️Cagnottes & camarades trans"
+title: "🏳️‍⚧️Cagnottes & asso trans"
 order: 6
 in_menu: true
 ---
