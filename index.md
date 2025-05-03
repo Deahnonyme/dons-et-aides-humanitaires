@@ -1,5 +1,5 @@
 ---
-title: "🌷Dons et aides Humanitaires🌷"
+title: "🌷Dons et aides Humanitaires"
 order: 0
 in_menu: true
 ---
