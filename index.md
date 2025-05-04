@@ -9,6 +9,6 @@ Il est important de les partager un maximum dans le but d’informer sur ce qu�
 
 **Qui suis-je ?**
 
-Je m'appelle Noor et je suis une militante anarchiste. En tant que personne anarqueer, muslim, handi, neuroD, racisée et féministe, il me semblait important de construire un outil pour rendre les aides et l'information plus accessibles. 
+Je m'appelle Noor et je suis une militante anarchiste. En tant que personne anarqueer, muslim, handi, neuroD, racisée et féministe, il me semblait important d'utiliser des outils fiables mis à notre disposition pour rendre la solidarité et l'information plus accessibles. 
 
 **N'hésite pas à partager le lien du site pour donner un coup de pouce et contacte-moi sur [mastodon](https://piaille.fr/@starrybubble) si des cagnottes et autres infos utiles sont à ajouter, compléter (ou si tu as d'autres suggestions).** 
